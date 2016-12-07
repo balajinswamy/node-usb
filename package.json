@@ -1,6 +1,6 @@
 {
   "name": "@rfcode/rfc-usb",
-  "description": "Library to access USB devices.  This module is a clone of usb 1.2.2 but was not compiling and it is pretty much antiquated.  Fixed the compilation errors so that we can use it within our RFCode windows platform.",
+  "description": "Library to access USB devices.  This module is a clone of usb 1.2.2 but was not compiling and it is pretty much antiquated. Fixed the compilation errors so that we can use it within our RFCode windows platform.",
   "version": "1.2.2",
   "engines": {
     "node": ">=0.12.x"
